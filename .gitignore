@@ -1,0 +1,4 @@
+db/db.sql
+.idea
+bot/.env
+.dockerignore
